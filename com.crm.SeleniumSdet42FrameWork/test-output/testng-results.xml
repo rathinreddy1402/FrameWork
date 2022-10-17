@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T23:23:30 IST" name="Default suite" finished-at="2022-10-14T23:24:09 IST" duration-ms="39598">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T23:23:30 IST" name="Default test" finished-at="2022-10-14T23:24:09 IST" duration-ms="39598">
+      <class name="Pratice.DataProviderTest">
+        <test-method signature="companyDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pratice.DataProviderTest@446293d]" started-at="2022-10-14T23:23:30 IST" name="companyDetails" data-provider="dataProvider_test" finished-at="2022-10-14T23:23:43 IST" duration-ms="13434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AAA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9845555258]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sfgjhg@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyDetails -->
+        <test-method signature="companyDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pratice.DataProviderTest@446293d]" started-at="2022-10-14T23:23:43 IST" name="companyDetails" data-provider="dataProvider_test" finished-at="2022-10-14T23:23:56 IST" duration-ms="13121" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BBB]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[983596544]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hgfug@gamil.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyDetails -->
+        <test-method signature="companyDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pratice.DataProviderTest@446293d]" started-at="2022-10-14T23:23:56 IST" name="companyDetails" data-provider="dataProvider_test" finished-at="2022-10-14T23:24:09 IST" duration-ms="12998" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CCC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6652445643]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ehfjefkjb@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyDetails -->
+      </class> <!-- Pratice.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
