@@ -107,6 +107,7 @@ if(actData.contains(data))
 driver.findElement(By.xpath("//img[@src='themes/softed/images/user.PNG']")).click();
 driver.findElement(By.xpath("//a[text()='Sign Out']")).click();
 
+		System.out.println("logout");
 	}
 
 	}
